@@ -1,0 +1,6 @@
+let g:lightline = {
+	\ 'colorscheme': 'onedark', 
+	\ }
+syntax on
+colorscheme onedark
+
